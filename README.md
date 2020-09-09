@@ -33,7 +33,7 @@ Agenda to be determined.
 ## Submissions:
 We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos. Images can be included, but limit the whole submission to one page. 
 Please submit through the following Easychair website:
-....
+https://easychair.org/conferences/?conf=wco2020 
 
 ## Organizers:
 
