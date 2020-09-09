@@ -20,12 +20,12 @@ We are happy to announce one or two keynote speakers (tentative):
 ## Sessions 
 One on ontology development, one on ontology applications
 
-### Session 1: morning of Friday, Oct 23 , 2020
-This session will focus on the development aspect of covid-19 related ontologies.
+### Session 1: 10 am - 2 pm ET (tentative), Friday, Oct 23 , 2020
+This session will focus on the development aspect of COVID-19 related ontologies.
 Agenda to be determined.
 
-### Session 2: morning of Friday, Oct 30, 2020
-This session will focus on the applications of covid-19 related ontologies.
+### Session 2: 10 am - 2 pm ET (tentative), Friday, Oct 30, 2020
+This session will focus on the applications of COVID-19 related ontologies.
 Agenda to be determined.
 
 ## Venue: Online (Zoom virtual meeting)
