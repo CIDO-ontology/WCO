@@ -13,7 +13,7 @@ This workshop will include the following themes (or sessions - time):
   - Machine learning, AI, NLP
   - Demos of COVID-19 data usage and analysis (even if ontology is not used). The data can be clinical, research, social, economic, etc. 
 
-We are happy to announce one or two keynote speakers (tentative):
+We are happy to announce our keynote speakers for the two sessions:
 - **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: to be announced.
 - **Dr. Michael Warters**, [SHIELD](https://mdic.org/wp-content/uploads/2020/02/SHIELD-Harmonizing-Standards-Application-to-Accelerate-Innovation.pdf) Team Lead & IVD RWE Representative, FDA. Topic: to be announced.
 
