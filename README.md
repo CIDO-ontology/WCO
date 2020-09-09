@@ -1,17 +1,17 @@
 # WCO-2020: Workshop on COVID-19 Ontologies
-(Eighth Annual Workshop of the Clinical and Translational Science Ontology Group)
+8th Annual Workshop of the Clinical and Translational Science Ontology Group
 
 ## Announcement: 
 COVID-19 is the first pandemic in the big data and AI era, and has resulted in unprecedented cooperation among global teams in the race to find cures. This has come with interesting data challenges, not just in the scale, but also in the variety of the data that is being generated and shared - data that is often generated using different models. Integration at this massive scale requires a coordinated effort by the clinical, research, government, informatics and other communities. This workshop on COVID-19 ontologies aims to bring together all the interested parties to share their experiences, ontologies, applications, lessons learned, and encourage more coordinated efforts to build effective models for semantic data integration and insights globally. The first Workshop on COVID-19 Ontologies (WCO-2020) is part of the CTSA Ontology Group meeting series. We invite everyone to join the WCO-2020!   
 
 This workshop will include the following themes (or sessions - time):
-Development of COVID-19 ontologies 
-Applications of ontologies, including: 
-User interface
-Query and analysis 
-Visualization
-Machine learning, AI, NLP
-Demos of COVID-19 data usage and analysis (even if ontology is not used). The data can be clinical, research, social, economic, etc. 
+- Development of COVID-19 ontologies 
+- Applications of ontologies, including: 
+  - User interface
+  - Query and analysis 
+  - Visualization
+  - Machine learning, AI, NLP
+  - Demos of COVID-19 data usage and analysis (even if ontology is not used). The data can be clinical, research, social, economic, etc. 
 
 We are happy to announce one or two keynote speakers (tentative):
 - **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: to be announced.
@@ -31,8 +31,9 @@ Agenda to be determined.
 ## Venue: Online (Zoom virtual meeting)
 
 ## Submissions:
-We welcome submissions of abstracts of 300 words or less for oral presentations and tool demos. Images can be included, but limit the whole submission to one page. 
-
+We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos. Images can be included, but limit the whole submission to one page. 
+Please submit through the following Easychair website:
+....
 
 ## Organizers:
 
@@ -54,7 +55,6 @@ We welcome submissions of abstracts of 300 words or less for oral presentations 
 To be finalized
 
 ## Participants:
-
 To be finalized
 
 
