@@ -17,6 +17,9 @@ We are happy to announce our keynote speakers for the two sessions:
 - **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: to be announced.
 - **Dr. Michael Warters**, [SHIELD](https://mdic.org/wp-content/uploads/2020/02/SHIELD-Harmonizing-Standards-Application-to-Accelerate-Innovation.pdf) Team Lead & IVD RWE Representative, FDA. Topic: to be announced.
 
+## Call for papers:  
+https://easychair.org/cfp/WCO-2020
+
 ## Sessions 
 One on ontology development, one on ontology applications
 
