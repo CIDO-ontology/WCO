@@ -14,8 +14,8 @@ This workshop will include the following themes (or sessions - time):
   - Demos of COVID-19 data usage and analysis (even if ontology is not used). The data can be clinical, research, social, economic, etc. 
 
 We are happy to announce our keynote speakers for the two sessions:
-- **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: to be announced.
-- **Dr. Michael Warters**, [SHIELD](https://mdic.org/wp-content/uploads/2020/02/SHIELD-Harmonizing-Standards-Application-to-Accelerate-Innovation.pdf) Team Lead & IVD RWE Representative, FDA. Topic: to be announced.
+- **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic (tentative).
+- **Dr. Michael Warters**, [SHIELD](https://mdic.org/wp-content/uploads/2020/02/SHIELD-Harmonizing-Standards-Application-to-Accelerate-Innovation.pdf) Team Lead & IVD RWE Representative, FDA. Topic: SHIELD: Extracting Value from Daily Reported COVID-19 Test Data.
 
 ## Call for papers:  
 https://easychair.org/cfp/WCO-2020
