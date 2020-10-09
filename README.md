@@ -15,7 +15,7 @@ This workshop will include the following themes (or sessions - time):
 
 We are happy to announce our keynote speakers for the two sessions:
 - **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic
-- **Dr. Michael Warters**, [SHIELD](https://mdic.org/wp-content/uploads/2020/02/SHIELD-Harmonizing-Standards-Application-to-Accelerate-Innovation.pdf) Team Lead & IVD RWE Representative, FDA. Topic: SHIELD: Extracting Value from Daily Reported COVID-19 Test Data.
+- **Dr. Gregory Pappas for Dr. Michael Warters**, Associate Director National Surveilence, Center for Biologics Evaluation and Research (CBER), FDA. Topic: SHIELD: Extracting Value from Daily Reported COVID-19 Test Data.
 
 ## Call for papers:  
 https://easychair.org/cfp/WCO-2020
