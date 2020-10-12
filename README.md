@@ -23,20 +23,38 @@ https://easychair.org/cfp/WCO-2020
 ## Sessions 
 One on ontology development, one on ontology applications
 
-### Session 1: 10 am - 2 pm ET (tentative), Friday, Oct 23 , 2020
+### Session 1: 9:30 am - 2 pm ET, Friday, Oct 23 , 2020
 This session will focus on the development aspect of COVID-19 related ontologies.
 Agenda to be determined.
 
-- Asiyah Lin, Anthony Huffman and Yongqun He	Ontology-based representation and comparison of COVID-19 vaccine phase III clinical trials
-- Victor Lee, Value Set-based Approach to Authoring Ontologies
-- Yuki Yamagata, Tatsuya Kushida and Hiroshi Masuya	Knowledge systematization of COVID-19 infectious processes based on Homeostasis Imbalance Process (HoIP) Ontology
-- Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson	Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms
-- John Beverley, Shane Babcock and Barry Smith	Coordinating Coronavirus Research with IDO-COVID-19
-- Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Jiangan Xie, Jianguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith	CIDO: The Community-based Coronavirus Infectious Disease Ontology
-- Biswanath Dutta and Michael DeBellis	CODO: An Ontology to Capture Data on the Covid-19 Pandemic
-- Zoe May Pendlington, Paola Roncaglia, Nicolas Matentzoglu, David Osumi-Sutherland, Deborah Caucheteur, Julien Gobeill, Luc Mottin, Donat Agosti, Patrick Ruch and Helen Parkinson	COVoc: a COVID-19 ontology to support literature triage
-- Enrique Wulff, Covid-19 ontology resources for libraries
-- Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari	A semantic data model for the WHO COVID-19 Case Report Form
+**Topic 1: Extending existing Ontologies for COVID-19 **
+- **9:30-9:45 am ET:** Yuki Yamagata, Tatsuya Kushida and Hiroshi Masuya	Knowledge systematization of COVID-19 infectious processes based on Homeostasis Imbalance Process (HoIP) Ontology
+- **9:45-10:00 am ET:** Asiyah Lin, Anthony Huffman and Yongqun He	Ontology-based representation and comparison of COVID-19 vaccine phase III clinical trials
+- **10:00-10:15 am ET:** Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson	Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms
+
+**Break: 5 min**
+
+**Keynote**
+**10:20-10:50 am ET: Warren** 
+**Break: 10 min**
+
+**Topic 2: Newly developed Ontologies specifically for COVID-19 **
+- **11:00-11:15 am ET:** Zoe May Pendlington, Paola Roncaglia, Nicolas Matentzoglu, David Osumi-Sutherland, Deborah Caucheteur, Julien Gobeill, Luc Mottin, Donat Agosti, Patrick Ruch and Helen Parkinson	COVoc: a COVID-19 ontology to support literature triage
+- **11:15-11:30 am ET:**  Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari	A semantic data model for the WHO COVID-19 Case Report Form
+-  **11:30-11:45 am ET:** Biswanath Dutta and Michael DeBellis	CODO: An Ontology to Capture Data on the Covid-19 Pandemic
+- **11:45-12:00 pm ET:** John Beverley, Shane Babcock and Barry Smith	Coordinating Coronavirus Research with IDO-COVID-19
+-  **12:00-12:15 pm ET:** Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Jiangan Xie, Jianguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith	CIDO: The Community-based Coronavirus Infectious Disease Ontology
+
+**Break: 5 min**
+
+**Topic 3: COVID-19 ontology resources **
+- **12:20-12:35 pm ET:** Enrique Wulff, Covid-19 ontology resources for libraries
+- **12:35-12:50 pm ET:** Victor Lee, Value Set-based Approach to Authoring Ontologies
+
+**Lunch Break: 30 min**
+
+**Topic: Group discussion **
+- **1:20-2:30 pm ET:** 
 
 
 ### Session 2: 10 am - 2 pm ET (tentative), Friday, Oct 30, 2020
