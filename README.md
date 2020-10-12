@@ -43,6 +43,15 @@ Agenda to be determined.
 This session will focus on the applications of COVID-19 related ontologies.
 Agenda to be determined.
 
+- Emma Griffiths, Ivan Gill, Damion Dooley, Rhiannon Cameron and William Hsiao	The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data
+- Asiyah Lin and Marc L. Salit	Towards a Minimum Information Standard About a Viral Control (MIAViC)
+- Fatima Zohra Smaili, Yongqun He, Xin Gao and Robert Hoehndorf	Analysis of Drugs and Protein Targets in CIDO
+- Zhichao Liu	Artificial intelligence (AI) - powered drug repositioning for treating COVID-19
+- Justin Reese, Deepak Unni, Tiffany Callahan, Luca Cappelletti, Vida Ravanmehr, Seth Carbon, Kent Shefchek, Tommaso Fontana, Hannah Blau, Nicolas Matentzoglu, Nomi Harris, Monica Munoz-Torres, Melissa Haendel, William Duncan, Nicole Vasilevsky, Peter Robinson, Marcin Joachimiak and Christopher Mungall	A knowledge graph for COVID-19
+Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim	Dark Matter: A Health Canada Solution for Information Retrieval
+- Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu	Standardizing COVID-19 clinical concepts for N3C analytics
+- Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal	Code System Development Protocol for Computable Expression of Scientific Knowledge
+- John Turner, Caty Chung, Samantha Jeschonek, Hande Kucuk McGinty, Michael Dorf, John Graybeal and Stephan Schurer	OntoloBridge the FAIR-bridge between users of scientific vocabulary and ontology creators
 
 
 ## Venue: Online (Zoom virtual meeting)
