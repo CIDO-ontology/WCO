@@ -47,7 +47,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Break: 5 min**
 
 **Session 3: COVID-19 ontology resources **
-- **12:20-12:35 pm ET:** Enrique Wulff, Covid-19 ontology resources for libraries
+- **12:20-12:35 pm ET:** Enrique Wulff, Covid-19 ontology resources for libraries 
 - **12:35-12:50 pm ET:** Victor Lee, Value Set-based Approach to Authoring Ontologies
 
 **Lunch Break: 30 min**
@@ -78,12 +78,12 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **Session 3: Knowledge and NLP**
 
--**11:45-12:00 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. Code System Development Protocol for Computable Expression of Scientific Knowledge
--**12:00-12:15 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. Standardizing COVID-19 clinical concepts for N3C analytics
+- **11:45-12:00 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. Code System Development Protocol for Computable Expression of Scientific Knowledge
+- **12:00-12:15 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. Standardizing COVID-19 clinical concepts for N3C analytics
 
 **Session 4: Application tools **
 
--**12:15-12:30 am ET:**  John Turner, Caty Chung, Samantha Jeschonek, Hande Kucuk McGinty, Michael Dorf, John Graybeal and Stephan Schurer.	OntoloBridge the FAIR-bridge between users of scientific vocabulary and ontology creators
+- **12:15-12:30 am ET:**  John Turner, Caty Chung, Samantha Jeschonek, Hande Kucuk McGinty, Michael Dorf, John Graybeal and Stephan Schurer.	OntoloBridge the FAIR-bridge between users of scientific vocabulary and ontology creators
 - **12:30-12:45 am ET:** Hande Küçük McGinty, Peter Gedeck, Samantha Jeschonek, Philip Cheung, Jason B. Harris, Barry Bunin and Alex Clark.	Extending Machine Learning Capabilities of BioHarmony Annotator
 
 **Lunch Break: 30 min**
