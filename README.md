@@ -34,7 +34,8 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Break: 5 min**
 
 **Keynote**
-**10:20-10:50 am ET: Warren** 
+**10:20-10:50 am ET: Dr. Warren Kibbe**  "National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic"
+
 **Break: 10 min**
 
 **Session 2: Newly developed Ontologies specifically for COVID-19**
@@ -64,7 +65,8 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **9:45-10:00 am ET:** Asiyah Lin and Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
 **Keynote**
-**10:00-10:30 am ET: Dr. Gregory Pappas for late Dr. Michael Waters** 
+**10:00-10:30 am ET: Dr. Gregory Pappas for late Dr. Michael Waters** "SHIELD project" (tentative topic)
+
 **Break: 10 min**
 
 **Session 2: Drug Analysis**
