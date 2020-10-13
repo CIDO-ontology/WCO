@@ -48,10 +48,10 @@ This session will focus on the development aspect of COVID-19 related ontologies
 - **12:20-12:35 pm ET:** Enrique Wulff. *Covid-19 ontology resources for libraries*
 - **12:35-12:50 pm ET:** Victor Lee. *Value Set-based Approach to Authoring Ontologies*
 
-**Lunch Break: 30 min**
+**Lunch Break (or free discussion): 30 min**
 
 **Session 4: Group discussion**
-- **1:20-2:30 pm ET:** 
+- **1:20-2:30 pm ET:** Discussion topics to be announced. 
 
 
 ### Day 2: 9:30 am - 2:30 pm ET, Friday, Oct 30, 2020
@@ -85,10 +85,10 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **12:15-12:30 am ET:**  John Turner, Caty Chung, Samantha Jeschonek, Hande Kucuk McGinty, Michael Dorf, John Graybeal and Stephan Schurer.	*OntoloBridge the FAIR-bridge between users of scientific vocabulary and ontology creators*
 - **12:30-12:45 am ET:** Hande Küçük McGinty, Peter Gedeck, Samantha Jeschonek, Philip Cheung, Jason B. Harris, Barry Bunin and Alex Clark.	*Extending Machine Learning Capabilities of BioHarmony Annotator*
 
-**Lunch Break: 30 min**
+**Lunch Break (or free discussion): 30 min**
 
 **Session 4: Group discussion**
-- **1:15-2:30 pm ET:** 
+- **1:15-2:30 pm ET:** Discussion topics to be announced. 
 
 ## Venue: Online (Zoom virtual meeting)
 
