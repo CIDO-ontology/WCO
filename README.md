@@ -31,7 +31,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Break: 5 min**
 
 **Keynote**
-**10:20-10:50 am ET: Dr. Warren Kibbe**  "National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic"
+**10:20-10:50 am ET: Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**  "National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic"
 
 **Break: 10 min**
 
@@ -57,12 +57,12 @@ This session will focus on the development aspect of COVID-19 related ontologies
 ### Day 2: 9:30 am - 2:30 pm ET, Friday, Oct 30, 2020
 This session will focus on the applications of COVID-19 related ontologies.
 
-**Session 1: Data harmonization and standardization**
+**Session 1: Data standardization**
 - **9:30-9:45 am ET:** Emma Griffiths, Ivan Gill, Damion Dooley, Rhiannon Cameron and William Hsiao. *The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data* 
 - **9:45-10:00 am ET:** Asiyah Lin and Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
 **Keynote**
-**10:00-10:30 am ET: Dr. Gregory Pappas for late Dr. Michael Waters** "SHIELD project" (tentative topic)
+**10:00-10:30 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Warters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** "SHIELD project" (tentative topic)
 
 **Break: 10 min**
 
