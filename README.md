@@ -17,6 +17,10 @@ We are happy to announce our keynote speakers for the two sessions:
 - **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic
 - **Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Warters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)**, Associate Director National Surveilence, Center for Biologics Evaluation and Research (CBER), FDA. Topic: SHIELD: Extracting Value from Daily Reported COVID-19 Test Data. ([SHIELD](https://mdic.org/wp-content/uploads/2020/02/SHIELD-Harmonizing-Standards-Application-to-Accelerate-Innovation.pdf) )
 
+## Registration   
+Please register using the following Google form: 
+https://forms.gle/KUJSFCN8qJSqp8Gy8 
+
 ## Program Schedule  
 One on ontology development, one on ontology applications
 
