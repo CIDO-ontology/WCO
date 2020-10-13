@@ -57,7 +57,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 ### Day 2: 9:30 am - 2:30 pm ET, Friday, Oct 30, 2020
 This session will focus on the applications of COVID-19 related ontologies.
 
-**Session 1: Data**
+**Session 1: Data harmonization and standardization**
 - **9:30-9:45 am ET:** Emma Griffiths, Ivan Gill, Damion Dooley, Rhiannon Cameron and William Hsiao. *The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data* 
 - **9:45-10:00 am ET:** Asiyah Lin and Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
