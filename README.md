@@ -57,7 +57,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Lunch Break (or free discussion): 30 min**
 
 :sparkles: **Session 4: Group discussion** :sparkles: 
- - **1:30-2:30 pm ET: Panelist and moderator: Dr. [Myles Axton](https://www.linkedin.com/in/myles-axton-1343682/)** Editor-in-Chief @ Wiley
+ - **1:30-2:30 pm ET: Panelist and moderator: Dr. [Myles Axton](https://www.linkedin.com/in/myles-axton-1343682/)** Editor-in-Chief for [Advanced Genetics](https://onlinelibrary.wiley.com/journal/26416573) @ Wiley
 
  **Collaborative Covid-19 metadata standardization to support timely publishing and tracking COVID 19 data, research and medical product trials for the greater good**
 
