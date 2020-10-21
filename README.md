@@ -67,7 +67,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **9:30-9:4O am ET: Open remarks**
 
-**Session 1: Data standardization**
+**Session 1: Data standardization**    [Moderator: Oliver]
 - **9:40-9:55 am ET:** Emma Griffiths, Ivan Gill, Damion Dooley, Rhiannon Cameron and William Hsiao. *The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data* 
 - **9:55-10:10 am ET:** Asiyah Lin and Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
@@ -76,7 +76,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **Break: 10 min**
 
-**Session 2: Drug Analysis**
+**Session 2: Drug Analysis**  [Moderator: Asiyah]
 
 - **10:50-11:05 am ET:** Fatima Zohra Smaili, Yongqun He, Xin Gao and Robert Hoehndorf. *Analysis of Drugs and Protein Targets in CIDO*
 - **11:05-11:20 am ET:** Zhichao Liu	Artificial intelligence (AI). *Powered drug repositioning for treating COVID-19*
@@ -85,12 +85,12 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **Break: 5 min**
 
-**Session 3: Knowledge and NLP**
+**Session 3: Knowledge and NLP**  [Moderator: Sivaram]
 
 - **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge*
 - **12:10-12:25 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. *Standardizing COVID-19 clinical concepts for N3C analytics*
 
-**Session 4: Application tools**
+**Session 4: Application tools**  [Moderator: Sivaram]
 
 - **12:25-12:40 am ET:**  John Turner, Caty Chung, Samantha Jeschonek, Hande Kucuk McGinty, Michael Dorf, John Graybeal and Stephan Schurer.	*OntoloBridge the FAIR-bridge between users of scientific vocabulary and ontology creators*
 - **12:40-12:55 am ET:** Hande Küçük McGinty, Peter Gedeck, Samantha Jeschonek, Philip Cheung, Jason B. Harris, Barry Bunin and Alex Clark.	*Extending Machine Learning Capabilities of BioHarmony Annotator*
