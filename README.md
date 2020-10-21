@@ -101,6 +101,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **1:25-2:30 pm ET:** Discussion topics to be announced. 
 
 ## Venue: Online (Zoom virtual meeting)
+We will send invites to those who have registered fro the workshop. 
 
 ## Submissions:
 We welcome submissions of abstracts of **300 words or less** for oral presentations and tool demos. Images can be included, but limit the whole submission to one page. 
