@@ -29,7 +29,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 
 **9:30-9:4O am ET: Open remarks**
 
-**Session 1: Extending existing Ontologies for COVID-19**
+**Session 1: Extending existing Ontologies for COVID-19**  [Moderator: Sivaram]
 - **9:40-9:55 am ET:** Yuki Yamagata, Tatsuya Kushida and Hiroshi Masuya.	*Knowledge systematization of COVID-19 infectious processes based on Homeostasis Imbalance Process (HoIP) Ontology*
 - **9:55-10:10 am ET:** Asiyah Lin, Anthony Huffman and Yongqun He.	*Ontology-based representation and comparison of COVID-19 vaccine phase III clinical trials*
 - **10:10-10:25 am ET:** Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson.	*Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms*
@@ -41,7 +41,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 
 **Break: 10 min**
 
-**Session 2: Newly developed Ontologies specifically for COVID-19**
+**Session 2: Newly developed Ontologies specifically for COVID-19**  [Moderator: Asiyah]
 - **11:10-11:25 am ET:** Zoe May Pendlington, Paola Roncaglia, Nicolas Matentzoglu, David Osumi-Sutherland, Deborah Caucheteur, Julien Gobeill, Luc Mottin, Donat Agosti, Patrick Ruch and Helen Parkinson.	*COVoc: a COVID-19 ontology to support literature triage*
 - **11:25-11:40 am ET:**  Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari.	*A semantic data model for the WHO COVID-19 Case Report Form*
 -  **11:40-11:55 am ET:** Biswanath Dutta and Michael DeBellis.	*CODO: An Ontology to Capture Data on the Covid-19 Pandemic*
@@ -50,7 +50,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 
 **Break: 5 min**
 
-**Session 3: COVID-19 ontology resources**
+**Session 3: COVID-19 ontology resources**  [Moderator: Oliver]
 - **12:30-12:45 pm ET:** Enrique Wulff. *Covid-19 ontology resources for libraries*
 - **12:45-1:00 pm ET:** Victor Lee. *Value Set-based Approach to Authoring Ontologies*
 
