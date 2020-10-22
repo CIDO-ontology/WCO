@@ -46,7 +46,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 - **11:25-11:40 am ET:**  Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari.	*A semantic data model for the WHO COVID-19 Case Report Form*
 -  **11:40-11:55 am ET:** Biswanath Dutta and Michael DeBellis.	*CODO: An Ontology to Capture Data on the Covid-19 Pandemic*
 - **11:55-12:10 pm ET:** John Beverley, Shane Babcock and Barry Smith.	*Coordinating Coronavirus Research with IDO-COVID-19*
--  **12:10-12:25 pm ET:** Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Jiangan Xie, Jianguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith.	*CIDO: The Community-based Coronavirus Infectious Disease Ontology*
+-  **12:10-12:25 pm ET:** Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Jiangan Xie, Junguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith.	*CIDO: The Community-based Coronavirus Infectious Disease Ontology*
 
 **Break: 5 min**
 
