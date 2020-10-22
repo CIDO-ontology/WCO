@@ -4,14 +4,16 @@
 ## Announcement: 
 COVID-19 is the first pandemic in the big data and AI era, and has resulted in unprecedented cooperation among global teams in the race to find cures. This has come with interesting data challenges, not just in the scale, but also in the variety of the data that is being generated and shared - data that is often generated using different models. Integration at this massive scale requires a coordinated effort by the clinical, research, government, informatics and other communities. This workshop on COVID-19 ontologies aims to bring together all the interested parties to share their experiences, ontologies, applications, lessons learned, and encourage more coordinated efforts to build effective models for semantic data integration and insights globally. The first Workshop on COVID-19 Ontologies (WCO-2020) is part of the CTSA Ontology Group meeting series. We invite everyone to join the WCO-2020!   
 
-This workshop will include the following themes (or sessions - time):
+This workshop will include the following themes:
 - Development of COVID-19 ontologies 
 - Applications of ontologies, including: 
   - User interface
   - Query and analysis 
   - Visualization
   - Machine learning, AI, NLP
-  - Demos of COVID-19 data usage and analysis (even if ontology is not used). The data can be clinical, research, social, economic, etc. 
+  - Demos of COVID-19 data usage and analysis (even if ontology is not used). The data can be clinical, research, social, economic, etc.
+  
+ The talks from this workshop will be posted to the **YouTube Channel [Biomedical Ontology World](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw)**
 
 We are happy to announce our keynote speakers for the two sessions:
 - **Dr. [Warren Kibbe](https://scholars.duke.edu/person/warren.kibbe)**, Duke University. Topic: National COVID Cohort Collaborative (N3C) and mapping terminologies in a pandemic
