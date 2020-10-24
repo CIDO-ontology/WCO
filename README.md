@@ -32,9 +32,9 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **9:30-9:4O am ET: Open remarks**
 
 **Session 1: Extending existing Ontologies for COVID-19**  [Moderator: Sivaram]
-- **9:40-9:55 am ET:** Yuki Yamagata, Tatsuya Kushida and Hiroshi Masuya.	*Knowledge systematization of COVID-19 infectious processes based on Homeostasis Imbalance Process (HoIP) Ontology*
-- **9:55-10:10 am ET:** Asiyah Lin, Philip Huang, Anthony Huffman and Yongqun He.	*Ontology-based representation and comparison of COVID-19 vaccine phase III clinical trials*
-- **10:10-10:25 am ET:** Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson.	*Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms*
+- **9:40-9:55 am ET:** Yuki Yamagata, Tatsuya Kushida and Hiroshi Masuya.	*Knowledge systematization of COVID-19 infectious processes based on Homeostasis Imbalance Process (HoIP) Ontology* [[slides](./day-1/Yuki_HOIP.pdf)]
+- **9:55-10:10 am ET:** Asiyah Lin, Philip Huang, Anthony Huffman and Yongqun He.	*Ontology-based representation and comparison of COVID-19 vaccine phase III clinical trials*  [[slides](./day-1/Asiyah_Covid-clinical-trials.pdf)]
+- **10:10-10:25 am ET:** Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson.	*Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms* [[slides](./day-1/Carmody_MAXO.pdf)]
 
 **Break: 5 min**
 
@@ -44,17 +44,17 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Break: 10 min**
 
 **Session 2: Newly developed Ontologies specifically for COVID-19**  [Moderator: Asiyah]
-- **11:10-11:25 am ET:** Zoe May Pendlington, Paola Roncaglia, Nicolas Matentzoglu, David Osumi-Sutherland, Deborah Caucheteur, Julien Gobeill, Luc Mottin, Donat Agosti, Patrick Ruch and Helen Parkinson.	*COVoc: a COVID-19 ontology to support literature triage*
-- **11:25-11:40 am ET:**  Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari.	*A semantic data model for the WHO COVID-19 Case Report Form*
--  **11:40-11:55 am ET:** Biswanath Dutta and Michael DeBellis.	*CODO: An Ontology to Capture Data on the Covid-19 Pandemic*
+- **11:10-11:25 am ET:** Zoe May Pendlington, Paola Roncaglia, Nicolas Matentzoglu, David Osumi-Sutherland, Deborah Caucheteur, Julien Gobeill, Luc Mottin, Donat Agosti, Patrick Ruch and Helen Parkinson.	*COVoc: a COVID-19 ontology to support literature triage* [[slides](./day-1/Zoe_COVoc.pdf)]
+- **11:25-11:40 am ET:**  Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari.	*A semantic data model for the WHO COVID-19 Case Report Form* [[slides](./day-1/Luiz_VODAN-CRF-2.pdf)]
+-  **11:40-11:55 am ET:** Biswanath Dutta and Michael DeBellis.	*CODO: An Ontology to Capture Data on the Covid-19 Pandemic* [[slides](./day-1/Biswanath_CODO.pdf)]
 - **11:55-12:10 pm ET:** John Beverley, Shane Babcock and Barry Smith.	*Coordinating Coronavirus Research with IDO-COVID-19*
--  **12:10-12:25 pm ET:** Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Jiangan Xie, Junguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith.	*CIDO: The Community-based Coronavirus Infectious Disease Ontology*
+-  **12:10-12:25 pm ET:** Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Jiangan Xie, Junguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith.	*CIDO: The Community-based Coronavirus Infectious Disease Ontology* [[slides](./day-1/Oliver_CIDO.pdf)]
 
 **Break: 5 min**
 
 **Session 3: COVID-19 ontology resources**  [Moderator: Oliver]
-- **12:30-12:45 pm ET:** Enrique Wulff. *Covid-19 ontology resources for libraries*
-- **12:45-1:00 pm ET:** Victor Lee. *Value Set-based Approach to Authoring Ontologies*
+- **12:30-12:45 pm ET:** Enrique Wulff. *Covid-19 ontology resources for libraries* [[slides](./day-1/Enrique_Library-resources.pdf)]
+- **12:45-1:00 pm ET:** Victor Lee. *Value Set-based Approach to Authoring Ontologies* [[slides](./day-1/VictorLee_Valuesets.pdf)]
 
 **Lunch Break (or free discussion): 30 min**
 
