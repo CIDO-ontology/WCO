@@ -47,7 +47,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 - **11:10-11:25 am ET:** Zoe May Pendlington, Paola Roncaglia, Nicolas Matentzoglu, David Osumi-Sutherland, Deborah Caucheteur, Julien Gobeill, Luc Mottin, Donat Agosti, Patrick Ruch and Helen Parkinson.	*COVoc: a COVID-19 ontology to support literature triage* [[slides](./day-1/Zoe_COVoc.pdf)]
 - **11:25-11:40 am ET:**  Luiz Olavo Bonino Da Silva Santos, Rajaram Kaliyaperumal, Marc Nieuwland, Jeroen Beliën, Bruna dos Santos Vieira and Lana Meiqari.	*A semantic data model for the WHO COVID-19 Case Report Form* [[slides](./day-1/Luiz_VODAN-CRF-2.pdf)]
 -  **11:40-11:55 am ET:** Biswanath Dutta and Michael DeBellis.	*CODO: An Ontology to Capture Data on the Covid-19 Pandemic* [[slides](./day-1/Biswanath_CODO.pdf) | [video](https://youtu.be/EmkNzyY4CsQ)]
-- **11:55-12:10 pm ET:** John Beverley, Shane Babcock and Barry Smith.	*Coordinating Coronavirus Research with IDO-COVID-19* [[video](https://youtu.be/YNL1qTLRN58)]
+- **11:55-12:10 pm ET:** John Beverley, Shane Babcock and Barry Smith.	*Coordinating Coronavirus Research with IDO-COVID-19* [[slides](https://github.com/CIDO-ontology/WCO/blob/master/day-1/John_COVID19_IDO.pdf) | [video](https://youtu.be/YNL1qTLRN58)]
 -  **12:10-12:25 pm ET:** Yongqun He, Hong Yu, Edison Ong, Yang Wang, Yingtong Liu, Anthony Huffman, Hsin-Hui Huang, John Beverley, Asiyah Yu Lin, William Duncan, Sivaram Arabandi, Liwei Wang, Hongfang Liu, Yehoshua Perl, Jiangan Xie, Junguk Hur, Xiaolin Yang, Luonan Chen, Gilbert Omenn, Brian Athey and Barry Smith.	*CIDO: The Community-based Coronavirus Infectious Disease Ontology* [[slides](./day-1/Oliver_CIDO.pdf) | [video](https://youtu.be/TXId-pHomzc)]
 
 **Break: 5 min**
