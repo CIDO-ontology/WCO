@@ -113,7 +113,7 @@ https://easychair.org/conferences/?conf=wco2020
 ## Organizers:
 
 **Workshop Co-organizers:**
-- Asiyah Yu Lin (FDA)
+- Asiyah Yu Lin (FDA, National Center for Ontological Research)
 - Bill Duncan (Lawrence Berkeley National Laboratory)
 - Sivaram Arabandi (Ontopro)
 - Yongqun “Oliver” He (University of Michigan Medical School)
