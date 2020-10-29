@@ -82,7 +82,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 - **10:50-11:05 am ET:** Zhichao Liu	Artificial intelligence (AI). *Powered drug repositioning for treating COVID-19*
 - **11:05-11:20 am ET:** Justin Reese, Deepak Unni, Tiffany Callahan, Luca Cappelletti, Vida Ravanmehr, Seth Carbon, Kent Shefchek, Tommaso Fontana, Hannah Blau, Nicolas Matentzoglu, Nomi Harris, Monica Munoz-Torres, Melissa Haendel, William Duncan, Nicole Vasilevsky, Peter Robinson, Marcin Joachimiak and Christopher Mungall.	*A knowledge graph for COVID-19*
-- **11:20-11:35 am ET:** Fatima Zohra Smaili, Yongqun He, Xin Gao and Robert Hoehndorf. *Analysis of Drugs and Protein Targets in CIDO*
+- **11:20-11:35 am ET:** Fatima Zohra Smaili, Yongqun He, Xin Gao and Robert Hoehndorf. *Candidate COVID-19 Drugs Prediction*
 
 **Break: 5 min**
 
