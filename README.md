@@ -34,7 +34,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Session 1: Extending existing Ontologies for COVID-19**  [Moderator: Sivaram]
 - **9:40-9:55 am ET:** Yuki Yamagata, Tatsuya Kushida and Hiroshi Masuya.	*Knowledge systematization of COVID-19 infectious processes based on Homeostasis Imbalance Process (HoIP) Ontology* [[slides](./day-1/Yuki_HOIP.pdf) | [video](https://youtu.be/iCGPLx71OO0)]
 - **9:55-10:10 am ET:** Asiyah Lin, Philip Huang, Anthony Huffman and Yongqun He.	*Ontology-based representation and comparison of COVID-19 vaccine phase III clinical trials*  [[slides](./day-1/Asiyah_Covid-clinical-trials.pdf) | [video](https://youtu.be/39piFNBLWLE)]
-- **10:10-10:25 am ET:** Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson.	*Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms* [[slides](./day-1/Carmody_MAXO.pdf)]
+- **10:10-10:25 am ET:** Leigh Carmody, Nico Matentzoglu, Lauren Chan, Nicole Vasilevsky, Hannah Blau, Michael Gargano and Peter Robinson.	*Medical Action Ontology (MAxO) expansion to include COVID19 treatment terms* [[slides](./day-1/Carmody_MAXO.pdf) | [video](https://www.youtube.com/watch?v=WXUOYx7ZPKM&list=PLhzFEi0G-n-vjm82aFY1CR8tfuU6MdYtX&index=8)]
 
 **Break: 5 min**
 
