@@ -83,16 +83,16 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **10:50-11:05 am ET:** Fatima Zohra Smaili, Yongqun He, Xin Gao and Robert Hoehndorf. *Analysis of Drugs and Protein Targets in CIDO*
 - **11:05-11:20 am ET:** Zhichao Liu	Artificial intelligence (AI). *Powered drug repositioning for treating COVID-19*
 - **11:20-11:35 am ET:** Justin Reese, Deepak Unni, Tiffany Callahan, Luca Cappelletti, Vida Ravanmehr, Seth Carbon, Kent Shefchek, Tommaso Fontana, Hannah Blau, Nicolas Matentzoglu, Nomi Harris, Monica Munoz-Torres, Melissa Haendel, William Duncan, Nicole Vasilevsky, Peter Robinson, Marcin Joachimiak and Christopher Mungall.	*A knowledge graph for COVID-19*
-- **11:35-11:50 am ET:** Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim.	*Dark Matter: A Health Canada Solution for Information Retrieval*
 
 **Break: 5 min**
 
-**Session 3: Knowledge and NLP**  [Moderator: Sivaram]
+**Session 3a: Knowledge and NLP**  [Moderator: Sivaram]
 
+- **11:40-11:55 am ET:** Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim.	*Dark Matter: A Health Canada Solution for Information Retrieval*
 - **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge*
 - **12:10-12:25 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. *Standardizing COVID-19 clinical concepts for N3C analytics*
 
-**Session 4: Application tools**  [Moderator: Sivaram]
+**Session 3b: Application tools**  [Moderator: Sivaram]
 
 - **12:25-12:40 am ET:**  John Turner, Caty Chung, Samantha Jeschonek, Hande Kucuk McGinty, Michael Dorf, John Graybeal and Stephan Schurer.	*OntoloBridge the FAIR-bridge between users of scientific vocabulary and ontology creators*
 - **12:40-12:55 am ET:** Hande Küçük McGinty, Peter Gedeck, Samantha Jeschonek, Philip Cheung, Jason B. Harris, Barry Bunin and Alex Clark.	*Extending Machine Learning Capabilities of BioHarmony Annotator*
