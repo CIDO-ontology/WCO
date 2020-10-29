@@ -74,7 +74,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **9:55-10:10 am ET:** Asiyah Lin and Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
 **Keynote**
-**10:10-10:40 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Waters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** "SHIELD project" (tentative topic)
+**10:10-10:40 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Waters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** Interoperability, Laboratory Data, And Real World Evidence (RWE): Where We Are? 
 
 **Break: 10 min**
 
