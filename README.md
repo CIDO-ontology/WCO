@@ -99,7 +99,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **Lunch Break (or free discussion): 30 min**
 
-**Session 4: Group discussion**
+**Session 4: Group discussion**   [Moderator: Bill Hogan]
 - **1:25-2:30 pm ET:** Discussion topics to be announced. 
 
 ## Venue: Online (Zoom virtual meeting)
