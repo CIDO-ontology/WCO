@@ -74,7 +74,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **9:55-10:10 am ET:** Asiyah Lin, A.James Phillips, Aaron Glieberman, Mike Reed, Webb Stone, Sameer Rajesh, Veronique Baron, Faten Okda, Stephanie Ishack, Lellupitiyage Don Sujeewa Sampath, Kim Arvanites, Richard Creager,Tony Morrison, Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
 **Keynote**
-**10:10-10:40 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Waters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** Interoperability, Laboratory Data, And Real World Evidence (RWE): Where We Are? 
+**10:10-10:40 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Waters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** Interoperability, Laboratory Data, And Real World Evidence (RWE): Where We Are? ([video](https://youtu.be/7OLy1Srzerg))
 
 **Break: 10 min**
 
