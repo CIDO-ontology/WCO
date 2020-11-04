@@ -74,7 +74,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 - **9:55-10:10 am ET:** Asiyah Lin, A.James Phillips, Aaron Glieberman, Mike Reed, Webb Stone, Sameer Rajesh, Veronique Baron, Faten Okda, Stephanie Ishack, Lellupitiyage Don Sujeewa Sampath, Kim Arvanites, Richard Creager,Tony Morrison, Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
 **Keynote**
-**10:10-10:40 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Waters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** Interoperability, Laboratory Data, And Real World Evidence (RWE): Where We Are? ([video](https://youtu.be/7OLy1Srzerg))
+**10:10-10:40 am ET: Dr. [Gregory Pappas](https://www.linkedin.com/in/gregory-pappas-md-phd-3031687/) for late Dr. [Michael Waters](https://www.tributearchive.com/obituaries/18488618/Michael-Stephan-Waters)** Interoperability, Laboratory Data, And Real World Evidence (RWE): Where We Are? [[video](https://youtu.be/7OLy1Srzerg)]
 
 **Break: 10 min**
 
@@ -89,7 +89,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 **Session 3a: Knowledge and NLP**  [Moderator: Sivaram]
 
 - **11:40-11:55 am ET:** Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim.	*Dark Matter: A Health Canada Solution for Information Retrieval*
-- **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge* ([vedio](https://youtu.be/YROGRyhwkaQ))
+- **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge* [[video](https://youtu.be/YROGRyhwkaQ)]
 - **12:10-12:25 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. *Standardizing COVID-19 clinical concepts for N3C analytics*
 
 **Session 3b: Application tools**  [Moderator: Sivaram]
