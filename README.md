@@ -89,7 +89,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 **Session 3a: Knowledge and NLP**  [Moderator: Sivaram]
 
 - **11:40-11:55 am ET:** Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim.	*Dark Matter: A Health Canada Solution for Information Retrieval*
-- **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge*
+- **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge* ([vedio](https://youtu.be/YROGRyhwkaQ))
 - **12:10-12:25 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. *Standardizing COVID-19 clinical concepts for N3C analytics*
 
 **Session 3b: Application tools**  [Moderator: Sivaram]
