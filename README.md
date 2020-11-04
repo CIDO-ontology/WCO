@@ -70,7 +70,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 **9:30-9:4O am ET: Open remarks**
 
 **Session 1: Data standardization**    [Moderator: Oliver]
-- **9:40-9:55 am ET:** Emma Griffiths, Ivan Gill, Damion Dooley, Rhiannon Cameron and William Hsiao. *The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data* 
+- **9:40-9:55 am ET:** Emma Griffiths, Ivan Gill, Damion Dooley, Rhiannon Cameron and William Hsiao. *The DataHarmonizer: A fast, secure application for the harmonization of SARS-CoV-2 contextual data* [[video](https://youtu.be/Pw4kzj865cg)]
 - **9:55-10:10 am ET:** Asiyah Lin, A.James Phillips, Aaron Glieberman, Mike Reed, Webb Stone, Sameer Rajesh, Veronique Baron, Faten Okda, Stephanie Ishack, Lellupitiyage Don Sujeewa Sampath, Kim Arvanites, Richard Creager,Tony Morrison, Marc L. Salit.	*Towards a Minimum Information Standard About a Viral Control (MIAViC)*
 
 **Keynote**
@@ -80,7 +80,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **Session 2: Drug Analysis**  [Moderator: Asiyah]
 
-- **10:50-11:05 am ET:** Zhichao Liu	Artificial intelligence (AI). *Powered drug repositioning for treating COVID-19*
+- **10:50-11:05 am ET:** Zhichao Liu	Artificial intelligence (AI). *Powered drug repositioning for treating COVID-19* [[video](https://youtu.be/bR8eukLL90M)]
 - **11:05-11:20 am ET:** Justin Reese, Deepak Unni, Tiffany Callahan, Luca Cappelletti, Vida Ravanmehr, Seth Carbon, Kent Shefchek, Tommaso Fontana, Hannah Blau, Nicolas Matentzoglu, Nomi Harris, Monica Munoz-Torres, Melissa Haendel, William Duncan, Nicole Vasilevsky, Peter Robinson, Marcin Joachimiak and Christopher Mungall.	*A knowledge graph for COVID-19*
 - **11:20-11:35 am ET:** Fatima Zohra Smaili, Yongqun He, Xin Gao and Robert Hoehndorf. *Candidate COVID-19 Drugs Prediction*
 
@@ -88,7 +88,7 @@ This session will focus on the applications of COVID-19 related ontologies.
 
 **Session 3a: Knowledge and NLP**  [Moderator: Sivaram]
 
-- **11:40-11:55 am ET:** Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim.	*Dark Matter: A Health Canada Solution for Information Retrieval*
+- **11:40-11:55 am ET:** Erico de Souza, Robert Warren, Daniel Buijs and Taehyun Kim.	*Dark Matter: A Health Canada Solution for Information Retrieval* [[video](https://youtu.be/gz9PjLQRzno)]
 - **11:55-12:10 pm ET:**  Brian Alper, Joanne Dehnbostel, Vignesh Subbian and Muhammad Afzal. *Code System Development Protocol for Computable Expression of Scientific Knowledge* [[video](https://youtu.be/YROGRyhwkaQ)]
 - **12:10-12:25 pm ET:**  Liwei Wang, Andrew Wen, Huan He, Sijia Liu, Yongqun He and Hongfang Liu. *Standardizing COVID-19 clinical concepts for N3C analytics*
 
