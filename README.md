@@ -53,7 +53,7 @@ This session will focus on the development aspect of COVID-19 related ontologies
 **Break: 5 min**
 
 **Session 3: COVID-19 ontology resources**  [Moderator: Oliver]
-- **12:30-12:45 pm ET:** Enrique Wulff. *Covid-19 ontology resources for libraries* [[slides](./day-1/Enrique_Library-resources.pdf)]
+- **12:30-12:45 pm ET:** Enrique Wulff. *Covid-19 ontology resources for libraries* [[slides](./day-1/Enrique_Library-resources.pdf) | [video](https://youtu.be/jPiQcUyhTMM)]
 - **12:45-1:00 pm ET:** Victor Lee. *Value Set-based Approach to Authoring Ontologies* [[slides](./day-1/VictorLee_Valuesets.pdf) | [video](https://youtu.be/LLj2o017l6E)]
 
 **Lunch Break (or free discussion): 30 min**
