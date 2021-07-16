@@ -126,8 +126,5 @@ https://easychair.org/conferences/?conf=wco2020
 - [CTSOG](http://ncorwiki.buffalo.edu/index.php/Clinical_and_Translational_Science_Ontology_Group): Clinical and Translational Science Ontology Group. 
 - [MICHR](https://michr.umich.edu/): Michigan Institute for Clinical & Health Research (CTSA at Michigan).
  
-## Participants:
-To be finalized
-
 ## Call for papers (closed):  
 https://easychair.org/cfp/WCO-2020
